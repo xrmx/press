@@ -17,7 +17,7 @@ Gli obiettivi di Coding Gym:
 - imparare nuovi concetti, algoritmi, strutture dati e coding patterns
 - fare pratica con linguaggi conosciuti
 - sperimentare con linguaggi non conosciuti
-- migliorare capacità di collabozione e comunicazione
+- migliorare capacità di collaborazione e comunicazione
 - prepararsi a colloqui di lavoro nell'ambito dello sviluppo software
 
 Gli esercizi non richiedono particolari conoscenze di programmazione perché l'obiettivo è dare la possibilità a tutti di sviluppare una soluzione funzionante. Sono chiaramente esercizi finalizzati al ragionamento dove spesso la soluzione "brute force" non si applica oppure funziona solo parzialmente.
