@@ -14,7 +14,7 @@ FILOSOFIA
 
 Un aspetto fondamenale dello sviluppo software è scegliere i giusti compromessi. Coding Gym offre un modo per allenarsi ad identificare e comprendere i compromessi lavorando su esercizi autocontenuti, aperti naturalmente a variazioni e cambi di requisiti.
 
-Coding Gym non è una gara. Usando la pair programming, Coding Gym crea un ambiente che favorisce l'apprendimento attivo e la collaborazione e aiuta a ridurre la frustrazione che deriva da esercizi troppo complicati. La pair programming incoraggia l'interazione e la partecipazione, creando quindi un ambiente più piacevole e collaborativo. Tale collaborazione caratteristica della pair programming espone e rinforza i gymmers a collaborazione, teamwork, e abilità comunicative richieste nell'industria.
+Coding Gym non è una gara. Usando la pair programming, Coding Gym crea un ambiente che favorisce l'apprendimento attivo e la collaborazione e aiuta a ridurre la frustrazione che deriva da esercizi troppo complicati. La pair programming incoraggia l'interazione e la partecipazione, creando quindi un ambiente più piacevole e collaborativo. La collaborazione tipica della pair programming espone e rafforza i gymmers a teamwork, abilità comunicative e collaborative richieste nell'industria.
 
 Dal 2016, chi partecipa regolarmente ha riferito che "Coding Gym crea un ambiente piacevole per":
 - migliorare le capacità di analizzare i problemi di sviluppare algoritmi per risolverli
