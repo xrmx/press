@@ -1,4 +1,4 @@
-# Eventbrite Event Description
+# Facebook Event Description
 
 Coding Gym is an international programming lab format open to any language developed for continuous improvement. Coding Gym's manifesto follows:
 
