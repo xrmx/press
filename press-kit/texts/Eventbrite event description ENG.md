@@ -16,9 +16,9 @@ After each challenge, the Coding Gym "trainer" facilitates a <strong>retrospetiv
 
 <strong>Philosophy</strong>
 
-In software development, it's very important to give in to the right compromises. Coding Gym gives an exciting way to practice identifying and understanding compromises by working on self-contained problems, possibly open to changes.
+In software development, it's very important to give in to the right compromises. Coding Gym is an exciting way to practice identifying and understanding compromises by working on self-contained problems, naturally open to changes and variations.
 
-Coding Gym is not a contest. Using pair programming, Coding Gym creates an environment conducive to active learning and collaboration, helps to lower gymmers frustration with challenging problems. Pair programming encourages gymmers to interact with peers, thereby creating a more communal and supportive environment. The collaboration inherent in pair programming exposes and reinforces gymmers to the collaboration, teamwork, and communication skills required in industry.
+Coding Gym is not a contest. Using pair programming, Coding Gym creates an environment conducive to active learning and collaboration, helps to lower gymmers frustration with too challenging problems. Pair programming encourages gymmers to interact with peers, thereby creating a more communal and supportive environment. The collaboration inherent in pair programming exposes and reinforces gymmers to the collaboration, teamwork, and communication skills required in industry.
 
 Since 2016, regular attendees have reported that "Coding Gym makes a pleasant environment to":
 - improve problem analysis and algorithm design skills
