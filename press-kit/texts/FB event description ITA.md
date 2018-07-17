@@ -1,32 +1,39 @@
-﻿# Descrizione Evento Facebook
+# Descrizione Evento Facebook
 
-Coding Gym è un format di laboratori di programmazione finalizzati al miglioramento continuo e all'allenamento delle proprie capacità di analisi e risoluzione di problemi di programmazione. Coding Gym è stato ideato e sviluppato da Marco Arena nel 2016.
+Coding Gym è un format internazionale di laboratori di programmazione aperti a qualsiasi linguaggio e sviluppati per il miglioramento continuo. Segue il manifesto di Coding Gym:
 
-Ogni incontro prevede di affrontare 3 problemi auto-contenuti, con 30 minuti a disposizione per ognuno. I partecipanti lavorano a coppie con il linguaggio di programmazione che preferiscono, scrivendo e testando il codice direttamente nel browser, grazie all'utilizzo di HackerRank. 
+"We help others practice programming, software development and communication skills by making coding laboratories open to any programming language where cooperation is valued over competition, doing and sharing are valued over teaching, and where competing solutions come with discussing and understanding tradeoffs."
 
-Dopo ogni esercizio il moderatore di Coding Gym facilita una retrospettiva: una discussione aperta sulle soluzioni trovate, finalizzata al comprendere compromessi, pro e contro di ognuna. Il moderatore, inoltre, potrebbe guidare i partecipanti verso altre, inedite, soluzioni.
+COME FUNZIONA
 
-La retrospettiva è anche la fase dove il moderatore potrebbe avanzare delle "perturbazioni" sul problema - ovvero delle piccole o grandi variazioni - e chiedere ai partecipanti di discutere dell'impatto di queste sulle soluzioni trovate. Ad esempio, "cosa accade se il numero di dati in ingresso diventa 100 volte superiore a quello attuale?", oppure: "sapreste riscrivere la soluzione senza usare cicli for?", o ancora: "potreste risolvere il problema senza allocare spazio aggiuntivo?". Queste e molte altre domande possono essere scelte dal moderatore oppure dai partecipanti stessi.
+I partecipanti - "gymmers" - lavorano a coppie su 3 problemi autocontenuti, utilizzando qualsiasi linguaggio di programmazione desiderano. Tutto viene svolto all'interno di un browser.
 
-Talvolta variare il problema può nascondere una nuova opportunità per semplificare o complicare le soluzioni trovate, oppure può svelare patterns che precedentemente risultavano meno semplici da applicare. 
+Dopo ogni esercizio, il Coding Gym "trainer" modera una retrospettiva: i gymmers sono invitati a mostrare le proprie soluzioni. Ogni soluzione porta a discutere pro, contro e compromessi. Inoltre, il trainer potrebbe condividere nuove soluzioni e concetti, e potrebbe variare il problema al volo e chiedere ai gymmers di discutere del cambio e dell'impatto di questo cambio di requisiti. Ad esempio, "cosa accade se l'input del problema cresce di 100 volte?", oppure "potete risolvere il problema senza allocare spazio aggiuntivo?". Qualche volta da una variazione del problema nascono nuove opportunità per semplificare o complicare il problema.
 
-Nello sviluppo software è fondamentale saper scegliere i giusti compromessi, spesso ortogonali tra loro. Coding Gym offre un modo stimolante per allenarsi ad identificare e comprendere tali compromessi, lavorando su problemi auto-contenuti che possono essere ulteriormente variati.
+FILOSOFIA
 
-Gli obiettivi di Coding Gym:
-- migliorare capacità di analisi e risoluzione di problemi di programmazione
+Un aspetto fondamenale dello sviluppo software è scegliere i giusti compromessi. Coding Gym offre un modo per allenarsi ad identificare e comprendere i compromessi lavorando su esercizi autocontenuti, aperti naturalmente a variazioni e cambi di requisiti.
+
+Coding Gym non è una gara. Usando la pair programming, Coding Gym crea un ambiente che favorisce l'apprendimento attivo e la collaborazione e aiuta a ridurre la frustrazione che deriva da esercizi troppo complicati. La pair programming incoraggia l'interazione e la partecipazione, creando quindi un ambiente più piacevole e collaborativo. Tale collaborazione caratteristica della pair programming espone e rinforza i gymmers a collaborazione, teamwork, e abilità comunicative richieste nell'industria.
+
+Dal 2016, chi partecipa regolarmente ha riferito che "Coding Gym crea un ambiente piacevole per":
+- migliorare le capacità di analizzare i problemi di sviluppare algoritmi per risolverli
 - imparare nuovi concetti, algoritmi, strutture dati e coding patterns
-- fare pratica con linguaggi conosciuti
-- sperimentare con linguaggi non conosciuti
-- migliorare capacità di collaborazione e comunicazione
-- prepararsi a colloqui di lavoro nell'ambito dello sviluppo software
+- allenarsi con linguaggi noti e sperimentare linguaggi nuovi
+- migliorare le capacità di collaborazione e comunicazione
+- prepararsi per i colloqui di lavoro tecnici
 
-Gli esercizi non richiedono particolari conoscenze di programmazione perché l'obiettivo è dare la possibilità a tutti di sviluppare una soluzione funzionante. Sono chiaramente esercizi finalizzati al ragionamento dove spesso la soluzione "brute force" non si applica oppure funziona solo parzialmente.
+Coding Gym non richiede conoscenze avanzate di programmazione. Chiaramente, spesso le soluzioni "brute force" non funzionano (o lo fanno solo parzialmente) perché Coding Gym mira al miglioramento del "coding brain" dei gymmers.
 
-Alcuni problemi sono tratti dai colloqui di lavoro di grandi aziende del software quali, tra le altre, Microsoft, Google, Facebook, Twitter e Amazon.
+Alcuni problemi sono presi dai colloqui si lavoro dei "big" del software quali, ad esempio, Microsoft, Google, Facebook, Twitter e Amazon.
 
 ------------------
-Coding Gym $città
+Coding Gym $city
 
-Lo staff è coordinato da Marco Arena ed è composto dai moderatori di tutte le Coding Gym.
+Coding Gym è stato ideato, sviluppato e diretto da Marco Arena dal 2016.
 
-Coding Gym $città è organizzato e moderato da $moderatori.
+Coding Gym $city è organizzato e moderato da $moderators.
+
+Host
+
+Coding Gym $city è ospitato gratuitamente da $host.
