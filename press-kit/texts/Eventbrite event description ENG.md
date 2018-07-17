@@ -1,24 +1,29 @@
-﻿# Eventbrite Event Description
+# Eventbrite Event Description
 
 In addition to get your free ticker here, please:
-- sign up for this contest
+- sign up for this contest: $Link
 - bring your own laptop
 
-Coding Gym is a laboratory for programmers and people who want to improve their programming skills. Coding Gym has been created and developed by Marco Arena since 2016.
+Coding Gym is an international programming lab format open to any language developed for continuous improvement. Coding Gym's manifesto follows:
 
-Each lab consists in solving 3 self-contained problems, spending 30 minutes on each. People work in pair using any programming language they like, coding and testing directly on the browser.
+"We help others practice programming, software development and communication skills by making coding laboratories open to any programming language where cooperation is valued over competition, doing and sharing are valued over teaching, and where competing solutions come with discussing and understanding tradeoffs."
 
-After each challenge, the Coding Gym moderator facilitates a retrospetive: an open discussion on all the solutions found, aiming towards understanding tradeoffs, pros and cons of each. In addition, the moderator may lead people to new solutions. 
+<strong>How it works</strong>
 
-Moreover, during this phase, the moderator could change the problem and let people discuss about the impact of such variations on the solutions previously discussed. For instance, "what happens if the input of the problem grows by 100 times?", or "can you solve the problem without allocating extra space?" Sometimes varying the problem comes with new opportunities to simplify or complicate the solutions.
+Attendees - "gymmers" - work in pair on 3 self-contained challenges, using any programming language they agree upon. Everything is done on a web browser.
 
-In software development, it's very important to give in to the right compromises. Coding Gym gives an exciting way to practice identifying and understanding compromises, by working on self-contained problems which can be changed further.
+After each challenge, the Coding Gym "trainer" facilitates a <strong>retrospetive</strong>: gymmers are encouraged to show solutions they have found. Each solution comes with discussing and understanding pros, cons and tradeoffs. Moreover, the trainer could share new solutions and concepts, and could ask gymmers to discuss about requirements change. For instance, "what happens if the input of the problem grows by 100 times?", or "can you solve the problem without allocating extra space?" Sometimes varying the problem comes with new opportunities to simplify or complicate the solutions.
 
-Coding Gym's main targets:
+<strong>Philosophy</strong>
+
+In software development, it's very important to give in to the right compromises. Coding Gym gives an exciting way to practice identifying and understanding compromises by working on self-contained problems, possibly open to changes.
+
+Coding Gym is not a contest. Using pair programming, Coding Gym creates an environment conducive to active learning and collaboration, helps to lower gymmers frustration with challenging problems. Pair programming encourages gymmers to interact with peers, thereby creating a more communal and supportive environment. The collaboration inherent in pair programming exposes and reinforces gymmers to the collaboration, teamwork, and communication skills required in industry.
+
+Since 2016, regular attendees have reported that "Coding Gym makes a pleasant environment to":
 - improve problem analysis and algorithm design skills
 - learn new concepts, algorithms, data structures and coding patterns
-- practice known languages
-- experiment new languages
+- practice known languages and experiment new languages
 - improve collaboration and communication skills
 - prepare for coding interviews
 
@@ -29,7 +34,7 @@ Some problems are taken from real job interviews of tech giants such as Microsof
 ------------------
 Coding Gym $city
 
-The staff and community of Coding Gym is managed by Marco Arena.
+Coding Gym has been created, developed and directed by Marco Arena since 2016.
 
 Coding Gym $city is organized and moderated by $moderators.
 
