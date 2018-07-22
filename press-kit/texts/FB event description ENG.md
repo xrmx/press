@@ -8,7 +8,7 @@ HOW IT WORKS
 
 Attendees - "gymmers" - work in pair on 3 self-contained challenges, using any programming language they agree upon. Everything is done on a web browser.
 
-After each challenge, the Coding Gym "trainer" facilitates a <strong>retrospetive</strong>: gymmers are encouraged to show solutions they have found. Each solution comes with discussing and understanding pros, cons and tradeoffs. Moreover, the trainer could share new solutions and concepts, and could ask gymmers to discuss about requirements change. For instance, "what happens if the input of the problem grows by 100 times?", or "can you solve the problem without allocating extra space?" Sometimes varying the problem comes with new opportunities to simplify or complicate the solutions.
+After each challenge, the Coding Gym "trainer" facilitates a <strong>retrospective</strong>: gymmers are encouraged to show solutions they have found. Each solution comes with discussing and understanding pros, cons and tradeoffs. Moreover, the trainer could share new solutions and concepts, and could ask gymmers to discuss about requirements change. For instance, "what happens if the input of the problem grows by 100 times?", or "can you solve the problem without allocating extra space?" Sometimes varying the problem comes with new opportunities to simplify or complicate the solutions.
 
 PHILOSOPHY
 
