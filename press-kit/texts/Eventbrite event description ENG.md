@@ -4,7 +4,7 @@ In addition to get your free ticker here, please:
 - sign up for this contest: $Link
 - bring your own laptop
 
-Coding Gym is an international programming lab format open to any language developed for continuous improvement. Coding Gym's manifesto follows:
+Coding Gym is an international programming lab format open to any language and developed for continuous improvement. Coding Gym's manifesto follows:
 
 "We help others practice programming, software development and communication skills by making coding laboratories open to any programming language where cooperation is valued over competition, doing and sharing are valued over teaching, and where competing solutions come with discussing and understanding tradeoffs."
 
