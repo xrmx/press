@@ -18,6 +18,10 @@ Dopo ogni esercizio, il Coding Gym "trainer" modera una retrospettiva: i gymmers
 
 Un aspetto fondamentale dello sviluppo software è scegliere i giusti compromessi. Coding Gym offre un modo per allenarsi ad identificare e comprendere i compromessi lavorando su esercizi autocontenuti, aperti naturalmente a variazioni e cambi di requisiti.
 
+Coding Gym non è legato ad alcun paradigma o linguaggio di programmazione in particolare perché Coding Gym utilizza tutti gli strumenti per raggiungere il suo scopo e non viene limitato da niente. Per questo è libero. 
+
+Coding Gym non è un corso ma è organizzato e preparato da uno o più <strong>trainer</strong>. Un trainer non possiede né dispensa verità ma è solo qualcuno che talvolta potrà mettere a nudo le vulnerabilità dei partecipanti, incitandoli ad esplorare ed approfondire concetti e tecniche per migliorarsi.
+
 Coding Gym non è una gara. Usando la pair programming, Coding Gym crea un ambiente che favorisce l'apprendimento attivo e la collaborazione e aiuta a ridurre la frustrazione che deriva da esercizi troppo complicati. La pair programming incoraggia l'interazione e la partecipazione, creando quindi un ambiente più piacevole e collaborativo. La collaborazione tipica della pair programming espone e rafforza i gymmers a teamwork, abilità comunicative e collaborative richieste nell'industria.
 
 Dal 2016, chi partecipa regolarmente ha riferito che "Coding Gym crea un ambiente piacevole per":
