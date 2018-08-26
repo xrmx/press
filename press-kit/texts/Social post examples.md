@@ -1,4 +1,6 @@
-﻿# Social Post Examples
+# Social Post Examples
+
+**Important:** whenever you create a social post regarding Coding Gym, tag [Coding Gym page](https://www.facebook.com/coding.gym/) on Facebook, [coding_gym](https://twitter.com/coding_gym) on twitter and [Coding Gym company](https://www.linkedin.com/company/coding-gym/) on LinkedIn.
 
 ## Quick Links
 
