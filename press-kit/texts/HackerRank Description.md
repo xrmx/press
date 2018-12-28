@@ -5,6 +5,6 @@ Coding Gym's manifesto follows:
 
 <strong>This is not a contest:</strong> Coding Gym is collaborative, this contest is just like a challenge container.
 
-Register at https://coding-gym.org
+Register at https://hackerrank.com
 
-<br> <h2>Challenge will be published and discussed at:</h2> http://discuss.coding-gym.org
+<br> <h2>Challenge will be published and discussed at:</h2> https://coding-gym.org/challenges
